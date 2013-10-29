@@ -1,0 +1,7 @@
+.publish_simpletag div.tagsinput { border:1px solid #8195a0; background: #FFF; padding:5px; width:300px; height:100px; overflow-y: auto; -webkit-border-radius: 3px; border-radius: 3px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;}
+.publish_simpletag div.tagsinput span.tag { border: 1px solid #d0d7df; -moz-border-radius:2px; -webkit-border-radius:2px; display: block; float: left; padding: 2px 5px; text-decoration:none; background: #ECF1F4; color: #5f6c74; margin-right: 5px; margin-bottom:5px;font-family: helvetica;  font-size:13px;}
+.publish_simpletag div.tagsinput span.tag a { font-weight: bold; color: #5f6c74; text-decoration:none; font-size: 11px; position: relative; top: -1px; } 
+.publish_simpletag div.tagsinput input { width:80px; margin:0px; font-family: helvetica; font-size: 13px; border:1px solid transparent; padding:2px 5px; background: transparent; color: #000; outline:0px;  margin-right:5px; margin-bottom:5px; }
+.publish_simpletag div.tagsinput div { display:block; float: left; } 
+.publish_simpletag .tags_clear { clear: both; width: 100%; height: 0px; }
+.publish_simpletag .not_valid {background: #FBD8DB !important; color: #90111A !important;}
